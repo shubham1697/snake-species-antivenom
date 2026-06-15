@@ -152,7 +152,7 @@ snake-species-antivenom/
 - Kaggle for the Snake Species Dataset
 - Google for MobileNetV2 pre-trained weights
 - TensorFlow/Keras team for the deep learning framework
-- IIT Roorkee for the AI/ML certification program
+- IIT Roorkee and CloudxLab for the AI/ML certification program
 
 ---
 
